@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Food Peek é a simulação de uma landing page comercial.
+O Food Peek é a simulação de uma landing page comercial. Para acessar a página, diminua seu zoom geral para melhor eficácia de visualização. :D
 
 - [Visite o projeto online aqui](https://andrvss.github.io/Food-Peek/)
 
